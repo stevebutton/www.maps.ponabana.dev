@@ -1,0 +1,207 @@
+# Copyright (C) 2013 WP Posts Filter
+# This file is distributed under the same license as the WP Posts Filter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Posts Filter 0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-posts-filter\n"
+"POT-Creation-Date: 2013-05-04 10:02:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-posts-filter.php:105
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp-posts-filter.php:108
+msgid "WP Posts Filter settings"
+msgstr ""
+
+#: wp-posts-filter.php:111
+msgid "Global settings"
+msgstr ""
+
+#: wp-posts-filter.php:113
+msgid "Posts per page"
+msgstr ""
+
+#: wp-posts-filter.php:116
+msgid ""
+"Works for all pages except for the home page. To customize posts limit for "
+"the home page please refer to \"Settings\" -> \"Reading\" section"
+msgstr ""
+
+#: wp-posts-filter.php:120
+msgid "Date/time settings"
+msgstr ""
+
+#: wp-posts-filter.php:133 wp-posts-filter.php:546 wp-posts-filter.php:571
+#: wp-posts-filter.php:591 wp-posts-filter.php:613
+msgid "Custom value: "
+msgstr ""
+
+#: wp-posts-filter.php:135
+msgid "Needed to format the date displayed in post lists"
+msgstr ""
+
+#: wp-posts-filter.php:136
+msgid ""
+"Plugin-wide. Default value is taken from the Settings -> General -> Date "
+"format section. Syntax is the same as in WP and PHP date() function"
+msgstr ""
+
+#: wp-posts-filter.php:140
+msgid "Heading tag for the posts on a page:"
+msgstr ""
+
+#: wp-posts-filter.php:140
+msgid "Heading class for the posts on a page:"
+msgstr ""
+
+#: wp-posts-filter.php:140
+msgid "Content tag for the posts on a page:"
+msgstr ""
+
+#: wp-posts-filter.php:140
+msgid "Content class for the posts on a page:"
+msgstr ""
+
+#: wp-posts-filter.php:141
+msgid "Tags and styles settings"
+msgstr ""
+
+#: wp-posts-filter.php:143
+msgid ""
+"You can set up custom styles and tags for every page you have. To perform "
+"this please refer to the page settings below"
+msgstr ""
+
+#: wp-posts-filter.php:144
+msgid "Post list global template"
+msgstr ""
+
+#: wp-posts-filter.php:151
+msgid "Works for all pages except for the home page"
+msgstr ""
+
+#: wp-posts-filter.php:159
+msgid "Pages: "
+msgstr ""
+
+#: wp-posts-filter.php:166
+msgid "Home page"
+msgstr ""
+
+#: wp-posts-filter.php:166 wp-posts-filter.php:168
+msgid "Link"
+msgstr ""
+
+#: wp-posts-filter.php:192
+msgid "Show pages from categories:"
+msgstr ""
+
+#: wp-posts-filter.php:194
+msgid "Show pages containing tags:"
+msgstr ""
+
+#: wp-posts-filter.php:203
+msgid "Check all"
+msgstr ""
+
+#: wp-posts-filter.php:286
+msgid "Categories"
+msgstr ""
+
+#: wp-posts-filter.php:288
+msgid "Tags"
+msgstr ""
+
+#: wp-posts-filter.php:290
+msgid "Both categories and tags"
+msgstr ""
+
+#: wp-posts-filter.php:292
+msgid "None"
+msgstr ""
+
+#: wp-posts-filter.php:329
+msgid "WP Posts Filter Settings"
+msgstr ""
+
+#. #-#-#-#-#  wp-posts-filter.pot (WP Posts Filter 0.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-posts-filter.php:329
+msgid "WP Posts Filter"
+msgstr ""
+
+#: wp-posts-filter.php:339 wp-posts-filter.php:517
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: wp-posts-filter.php:389 wp-posts-filter.php:518
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: wp-posts-filter.php:486
+msgid ""
+"Oops! Can't find either one of the templates set or the default template for "
+"the page. Looks like your WP Posts Filter installation has been damaged! "
+"Please reinstall the plugin"
+msgstr ""
+
+#: wp-posts-filter.php:529
+msgid "Filter by:"
+msgstr ""
+
+#: wp-posts-filter.php:533
+msgid "Maximum posts per this page:"
+msgstr ""
+
+#: wp-posts-filter.php:555
+msgid "Post list template"
+msgstr ""
+
+#: wp-posts-filter.php:576
+msgid "Date/time settings for the page"
+msgstr ""
+
+#: wp-posts-filter.php:596
+msgid "Heading tag for the posts on this page"
+msgstr ""
+
+#: wp-posts-filter.php:596
+msgid "Heading class for the posts on this page"
+msgstr ""
+
+#: wp-posts-filter.php:596
+msgid "Content tag for the posts on this page"
+msgstr ""
+
+#: wp-posts-filter.php:596
+msgid "Content class for the posts on this page"
+msgstr ""
+
+#: wp-posts-filter.php:648
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://olezhek.net/codez/wp-posts-filter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin filters posts by category or tag to list them in the particular "
+"page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Oleg Lepeshchenko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://olezhek.net/"
+msgstr ""

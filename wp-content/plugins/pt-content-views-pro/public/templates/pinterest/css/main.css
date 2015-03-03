@@ -1,0 +1,111 @@
+/**
+ * Style Name: Pinterest
+ *
+ * @package   PT_Content_Views_Pro
+ * @author    PT Guy (palaceofthemes@gmail.com)
+ * @license   GPL-2.0+
+ * @link      http://www.contentviewspro.com/
+ * @copyright 2014 PT Guy
+ */
+
+.pt-cv-opacity-hidden {
+	opacity: 0;
+}
+
+/* Item */
+.pt-cv-pinterest .pt-cv-content-item {
+	background:         #fff;
+	border-top:         1px solid #ececec;
+	margin-bottom:      20px;
+	min-height:         100px;
+	width:              236px;
+	float:              left;
+	padding-bottom:     0;
+
+	-webkit-transition: top 1s ease, left 1s ease;
+	-moz-transition:    top 1s ease, left 1s ease;
+	-o-transition:      top 1s ease, left 1s ease;
+	-ms-transition:     top 1s ease, left 1s ease;
+}
+
+/* Shadow box */
+.pt-cv-pinterest.pt-cv-shadow .pt-cv-content-item {
+	-moz-box-shadow:    0px 1px 8px #CACACA;
+	-webkit-box-shadow: 0px 1px 8px #CACACA;
+	-khtml-box-shadow:  0px 1px 8px #CACACA;
+	box-shadow:         0px 1px 8px #CACACA;
+}
+
+.pt-cv-pinterest.pt-cv-shadow .pt-cv-content-item:hover {
+	-moz-box-shadow:    0px 3px 5px #666;
+	-webkit-box-shadow: 0px 3px 5px #666;
+	-khtml-box-shadow:  0px 3px 5px #666;
+	box-shadow:         0px 3px 5px #666;
+}
+
+/* Border box */
+.pt-cv-pinterest.pt-cv-border .pt-cv-content-item {
+	border:                1px solid #ddd;
+
+	-webkit-border-radius: 4px;
+	-moz-border-radius:    4px;
+	border-radius:         4px;
+}
+
+/* Item fields */
+.pt-cv-pinterest .pt-cv-content-item > * {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.pt-cv-pinterest .pt-cv-content-item > *:last-child {
+	border-bottom: none;
+}
+
+.pt-cv-pinterest .pt-cv-title,
+.pt-cv-pinterest .pt-cv-meta-fields,
+.pt-cv-pinterest .pt-cv-content {
+	padding: 8px 12px;
+}
+
+.pt-cv-pinterest .pt-cv-meta-fields {
+	margin-top: 0;
+}
+
+/* 2 columns */
+.pt-cv-pinterest .pt-cv-2-col .pt-cv-title,
+.pt-cv-pinterest .pt-cv-2-col .pt-cv-content {
+	margin-left:   10px;
+	margin-right:  10px;
+	padding-left:  0;
+	padding-right: 0;
+}
+
+.pt-cv-pinterest .pt-cv-2-col .pt-cv-thumbnail {
+	margin-top: 10px;
+}
+
+.pt-cv-pinterest .pt-cv-2-col .pt-cv-thumbnail.pull-left {
+	margin-left: 10px;
+}
+
+.pt-cv-pinterest .pt-cv-2-col .pt-cv-thumbnail.pull-right {
+	margin-right: 10px;
+}
+
+/* Thumbnail */
+.pt-cv-pinterest .pt-cv-thumbnail, .pt-cv-pinterest .pt-cv-title {
+	margin-bottom: 0;
+}
+
+/* Title */
+.pt-cv-pinterest .pt-cv-title {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	.pt-cv-pinterest .pt-cv-content-item {
+		max-width: 100%;
+	}
+}

@@ -1,0 +1,265 @@
+{
+  "storymap": {
+    "map_as_image": false,
+    "slides": [
+      {
+        "date": "",
+        "text": {
+          "headline": "Introduction",
+          "text": "<p>Cette carte interactive a pour but de visualiser les bonnes pratiques mises en œuvre par les différents bureaux provinciaux de l’UNICEF au cours de l’exercice de revues semestrielles.</p><p>  Elle souligne aussi les erreurs à éviter ou les problèmes logistiques qui ont pu être rencontrées depuis juillet 2014, par chacun des bureaux, dans le but d’un partage de l’information et de capitalisation des connaissances et expériences de chacun, dans le but d’améliorer ces exercices d’évaluation de notre programme avec le gouvernement de la RDC et de mieux travailler avec nos partenaires de terrain.</p>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+        },
+        "type": "overview"
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Kinshasa",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p><p></p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study1\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 65.80277639340238,
+          "lon": -116.01562499999999,
+          "zoom": 3
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Kasai Occidental",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=\"/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study2\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 64.01449619484472,
+          "lon": -77.34374999999999,
+          "zoom": 9
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "bas congo",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p><p></p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study3\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 62.63376960786813,
+          "lon": -131.044921875,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Province Orientale",
+          "text": "<p>Le bureau principal de la Province orientale est situé à Kinsagani, mais cette province compte aussi deux antennes en Iturie (Bunia) et à Dungu, ce qui est une particularité qui influence, entre autre, l’organisation logistique des revues semestrielles. Le principal défi pour la province est de centraliser l’ensemble des données de chaque des bureaux (ou « cost centers »).</p><p></p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study4\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 79.07181201408547,
+          "lon": -51.67968749999999,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Equateur",
+          "text": "<p>TEST Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p><p></p>\n<a data-lightbox-type=\"iframe\" rel=\"selector\" href=\"http://example.com/\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study5\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 77.40867810827243,
+          "lon": -85.166015625,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Sud Kivu",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study6\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 68.84766505841037,
+          "lon": -33.310546875,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Nord Kivu",
+          "text": "<p>La province du Nord-Kivu se caractérise par une multiplicité d'acteurs de terrain, Goma étant la base de nombreuses ONGs locales et internationales, ainsi que par une instabilité chronique due aux conflits qui affectent plusieurs provinces de l'Est, dont le Kivu.</p><p>Le principal défi pour la province du Nord-Kivu est donc d'obtenir la participation de tous les acteurs impliqués (plus de 80 personnes participants aux revues semestrielles) sans trop alourdir les débats et tout en favorisant des discussions productives et que chacun puisse faire entendre sa voix.</p><p>Veuillez cliquer sur les icônes ci-dessous pour visualiser les bonnes pratiques mises en œuvre au Nord Kivu et les erreurs à éviter.</p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study7\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 73.92246884621466,
+          "lon": -30.937499999999996,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Kasaï Oriental",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study8 \"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 69.06856318696033,
+          "lon": -61.962890625,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Kasaï Occidental",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study9\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 63.78248603116502,
+          "lon": -77.431640625,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "katanga",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study10\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 60.673178565817715,
+          "lon": -37.6171875,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Bandundu",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study11\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 67.16995497083367,
+          "lon": -99.66796875,
+          "zoom": 4
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Maniema",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=\"http://maps.ponabana.com/erreurs/?iframe=true\"><img src=\"gfx/btproblem.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"http://maps.ponabana.com/best-practices/?iframe=true\"><img src=\"gfx/btgood.png\" width=\"300\" height=\"101\" alt=\"\"/></a>\n<a href=\"#study12\"><img src=\"gfx/btlb.png\" width=\"300\" height=\"101\" alt=\"\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 68.78414378041504,
+          "lon": -47.900390625,
+          "zoom": 4
+        }
+      }
+    ],
+    "map_type": "zoomify",
+    "zoomify": {
+      "path": "http://maps.ponabana.com/DRCMapexport/",
+      "width": 5000,
+      "height": 4000,
+      "tolerance": 0.9,
+      "attribution": ""
+    },
+    "call_to_action": false,
+    "call_to_action_text": "commencer à explorer",
+    "language": "fr"
+  },
+  "height": "600",
+  "width": "940"
+}

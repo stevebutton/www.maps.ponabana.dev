@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+Hi twaelde!
+
+Please insert JS file inside Enfold/js folder and then add following code to Functions.php file in Appearance > Editor
+
+function scroll_magic_script() {
+	wp_enqueue_script( 'ScrollMagic', get_template_directory_uri() . '/js/jquery.scrollmagic.min.js', array(), true );
+}
+add_action( 'wp_enqueue_scripts', 'scroll_magic_script' );
+Then add your codes inside Code Block element.
+Please keep in mind that we cannot guarantee that it would work flawlessly
+
+Cheers!
+Yigit
+
+
+
+
+$message .= "{login_url}";
+</body>
+</html>

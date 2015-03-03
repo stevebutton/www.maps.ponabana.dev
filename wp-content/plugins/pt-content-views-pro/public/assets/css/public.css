@@ -1,0 +1,316 @@
+/**
+ * Main styles for Front-end
+ *
+ * @package   PT_Content_Views_Pro
+ * @author    PT Guy <palaceofthemes@gmail.com>
+ * @license   GPL-2.0+
+ * @link      http://www.contentviewspro.com/
+ * @copyright 2014 PT Guy
+ */
+
+.pt-cv-center {
+	margin: 0 auto !important;
+}
+
+/* Pagination */
+.pt-cv-pagination-wrapper {
+	clear: both;
+}
+
+.pt-cv-more {
+	border:  none !important;
+	font-size: 14px;
+	z-index: 10000 !important;
+}
+
+.pt-cv-spinner {
+	margin-top: -64px;
+}
+
+.pt-cv-more + .pt-cv-spinner {
+	margin-top: 5px !important;
+}
+
+/* Hide More button in Infinite loading */
+.pt-cv-infinite-load + .pt-cv-pagination-wrapper .pt-cv-more {
+	display: none !important;
+}
+
+/* Content */
+.pt-cv-content-text + br {
+	display: none !important;
+}
+
+/* Read more */
+.pt-cv-readmore {
+	border:         none;
+	margin:         6px 0;
+	text-transform: none !important;
+}
+
+.pt-cv-readmore:hover,
+.pt-cv-readmore:focus {
+	opacity: 0.8;
+}
+
+[id^=pt-cv-filter-bar] .pt-cv-filter-option:hover,
+[id^=pt-cv-filter-bar] .pt-cv-filter-option:focus {
+	opacity: 0.8;
+}
+
+.pt-cv-readmore.btn-link {
+	color:        #428bca !important;
+	padding-left: 0;
+}
+
+/* Meta fields */
+.pt-cv-meta-fields a {
+	color: inherit;
+}
+
+.pt-cv-meta-fields span, .pt-cv-meta-fields time {
+	color: rgba(88, 88, 88, 0.6);
+}
+
+.pt-cv-meta-fields .glyphicon {
+	margin-left: 15px;
+	color:       rgba(88, 88, 88, 0.4);
+}
+
+.pt-cv-meta-fields span:first-child .glyphicon {
+	margin-left: 0;
+}
+
+.pt-cv-meta-fields .glyphicon:before {
+	margin-top: 2px;
+	float:      left;
+}
+
+.pt-cv-meta-fields .glyphicon a {
+	margin-left: 6px;
+}
+
+.comments-link a:before {
+	content: '' !important;
+}
+
+/* WooCommerce */
+.pt-cv-view .product.woocommerce {
+	border:        none !important;
+	display:       inline-block;
+	padding:       8px 12px 8px 0 !important;
+	margin-bottom: 0;
+	width:         100%;
+}
+
+.pt-cv-pinterest .product.woocommerce {
+	padding-left: 12px !important;
+}
+
+.pt-cv-view .product .amount {
+	float:          left;
+	font-size:      20px;
+	color:          #000;
+	letter-spacing: -1px;
+	font-weight:    700;
+	margin-bottom:  0px;
+}
+
+.pt-cv-scrollable .pt-cv-cap-w-img .product .amount {
+	color: #fff !important;
+}
+
+.pt-cv-view .product del .amount {
+	color:        rgba(145, 145, 145, .5) !important;
+	font-size:    12px;
+	margin-top:   9px;
+	margin-right: 6px;
+}
+
+.pt-cv-view .add_to_cart_button {
+	float: right;
+}
+
+.pt-cv-view .add_to_cart_button {
+	background:            #222 !important;
+	border:                none !important;
+	color:                 #fff !important;
+	clear:                 both;
+	float:                 left;
+	height:                auto;
+	margin-top:            10px !important;
+	padding:               .5em 1.5em !important;
+
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius:    0 !important;
+	border-radius:         0 !important;
+}
+
+.pt-cv-view .add_to_cart_button:hover,
+.pt-cv-view .add_to_cart_button:focus {
+	background:   #238803;
+	border-color: #999;
+	color:        #fff;
+	opacity:      0.8;
+}
+
+/* Taxonomy filter */
+.pt-cv-filter-bar + .pt-cv-view,
+.pt-cv-filter-bar + .pt-cv-view .pt-cv-page,
+.pt-cv-filter-bar + .pt-cv-view .pt-cv-content-item {
+	position: relative;
+}
+
+.pt-cv-filter-bar + .pt-cv-view .pt-cv-content-item {
+	float:        left;
+	padding-left: 0 !important;
+}
+
+.pt-cv-filter-bar .active, .pt-cv-filter-bar .active a {
+	cursor: text;
+}
+
+/* Common style for filter bar */
+.pt-cv-filter-bar {
+	margin-top:    -7px !important;
+	margin-bottom: 10px !important;
+}
+
+.btn-group.pt-cv-filter-bar .btn {
+	margin-bottom:         10px;
+
+	-webkit-border-radius: 0;
+	-moz-border-radius:    0;
+	border-radius:         0;
+}
+
+.breadcrumb.pt-cv-filter-bar {
+	background:            none;
+	margin-top:            -4px;
+	margin-bottom:         0;
+	margin-left:           0;
+	padding-left:          0;
+
+	-webkit-border-radius: 0;
+	-moz-border-radius:    0;
+	border-radius:         0;
+}
+
+.breadcrumb.pt-cv-filter-bar {
+  padding: 8px 15px;
+  margin-bottom: 20px;
+  list-style: none;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+.breadcrumb.pt-cv-filter-bar > li {
+  display: inline-block;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.breadcrumb.pt-cv-filter-bar > li + li:before {
+  content: "/\00a0";
+  padding: 0 5px;
+  color: #cccccc;
+}
+.breadcrumb.pt-cv-filter-bar > .active {
+  color: #777777;
+}
+
+.pt-cv-filter-bar .pt-cv-filter-option {
+	border-color: #fff !important;
+}
+
+.pt-cv-filter-bar .pt-cv-filter-option.active {
+	text-decoration: underline !important;
+}
+
+/* Each filter type, active */
+.breadcrumb.pt-cv-filter-bar * {
+	background: none !important;
+}
+
+.pt-cv-filter-bar .dropdown-menu li:hover {
+	background: #ececec !important;
+}
+
+.pt-cv-filter-bar .dropdown-menu li:hover a {
+	font-weight: bold !important;
+}
+
+.pt-cv-filter-bar .dropdown-toggle .caret {
+	margin-left: 5px;
+}
+
+.pt-cv-filter-group ul {
+	position:     relative;
+	padding-left: 0 !important;
+	height:       160px;
+	overflow-x:   auto;
+}
+
+.pt-cv-filter-group li {
+	margin-bottom: 0;
+	list-style:    none;
+}
+
+.pt-cv-filter-group li a {
+	background:    url('../images/check_off.png') no-repeat transparent 0 center;
+	border-bottom: 1px solid #f3f3f3;
+	display:       block;
+	padding:       10px 0 10px 20px;
+	text-indent:   0;
+}
+
+.pt-cv-filter-group li a.selected {
+	background: url('../images/check_on.png') no-repeat #FFF3C0 0 center;
+	color:      #444;
+}
+
+.pt-cv-filter-title {
+	margin-bottom: 0 !important;
+	padding:       8px 0 8px 8px !important;
+}
+
+/* Custom fields */
+.pt-cv-custom-fields {
+	margin-top: 15px;
+}
+
+.pt-cv-ctf-name {
+	margin-right: 20px;
+	min-width: 100px;
+	float: left;
+}
+
+.pt-cv-ctf-value {
+	display: inline-block;
+}
+
+/* Lightbox */
+.pt-cv-lightbox-dialog #cboxLoadedContent {
+	overflow-x: hidden !important;
+	padding:    0 30px;
+}
+
+/* Animation & Effect */
+.pt-cv-content-hover .pt-cv-content {
+	display: none;
+	position: absolute;
+	top: 0;
+	margin: 0 15px 0 0;
+	padding: 15px;
+	width: auto;
+	z-index: 3;
+}
+.pt-cv-content-hover .pt-cv-content-item:hover .pt-cv-content {
+	display: block;
+}
+.pt-cv-content-hover .pt-cv-title {
+	z-index: 10;
+}
+
+/* Link */
+.pt-cv-title .pt-cv-none {
+	cursor: default;
+}

@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Views Pro\n"
+"POT-Creation-Date: 2014-08-05 22:37+0700\n"
+"PO-Revision-Date: 2014-08-05 22:44+0700\n"
+"Last-Translator: \n"
+"Language-Team: PT Guy <support@contentviewspro.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\wptest\\3.9.1\\wp-content\\plugins\\pt-"
+"content-views-pro\n"
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/wp-updates-plugin.php:97
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/wp-updates-plugin.php:101
+msgid "An unknown error occurred"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:207
+msgid "Duplicate this item"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:207
+msgid "Duplicate"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:219
+msgid "Duplicate this view"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:235
+msgid "WooCommerce filters"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:243
+msgid "Quick filter to get WooCommerce products"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:263
+msgid "Offset"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:272
+msgid ""
+"The number of posts to displace or pass over. Leaving it blank to start from "
+"the first post"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:323
+msgid "Order by"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:339
+msgid "Order"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:407
+msgid "Open first item at page load"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:427
+msgid "Open multiple items at once"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:452
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:659
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:668
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:83
+msgid "Items per row"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:460
+msgid "The number of items on each row of a slide"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:468
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:662
+msgid "Rows count"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:476
+msgid "The number of rows on each slide"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:484
+msgid "Automatic cycle"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:499
+msgid "Interval (seconds)"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:508
+msgid "The amount of seconds to delay between automatically cycling an item"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:517
+msgid "Show indicator"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:532
+msgid "Show navigation"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:559
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:80
+msgid "Pinterest"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:576
+msgid "New window"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:577
+msgid "Light box"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:578
+msgid "None (no link, no click action)"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:608
+msgid "Show Price & Add to cart"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:627
+msgid "&mdash; Custom size &mdash;"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:648
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:680
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:683
+msgid "Custom size"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:664
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:798
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:863
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:680
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:694
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:702
+msgid "Width"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:679
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:815
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:879
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:683
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:697
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:705
+msgid "Height"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:699
+msgid "Thumbnail style"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:719
+msgid "Border radius"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:756
+msgid "Text direction"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:783
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:694
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:697
+msgid "Window size"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:848
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:702
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:705
+msgid "Lightbox size"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:911
+msgid "Load more button"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:956
+msgid "Drag & drop to change the display order of fields"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:978
+msgid "Taxonomies display"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:990
+msgid "Show only terms of selected taxonomy"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1001
+msgid "Icons"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1013
+msgid "Add icon before each meta field"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1051
+msgid ""
+"Use manual excerpt if it exists (instead of generating an excerpt "
+"automatically)"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1060
+msgid "Read more"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1071
+msgid "Show read more text/button"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1094
+msgid "Text"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1105
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1106
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1126
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:403
+msgid "Read More"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1114
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1392
+msgid "Style"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1150
+msgid "Alignment"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1174
+msgid "Start with"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1188
+msgid "Get all terms start with selected character (non case-sensitive)"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1195
+msgid "End with"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1209
+msgid ""
+"Get all terms end with selected character (non case-sensitive). This filter "
+"will overwrite Start with filter"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1242
+msgid "Sticky posts"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1254
+msgid "Excludes sticky posts from output"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1274
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1285
+msgid "Style Setttings"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1288
+msgid "Shuffle Filter"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1330
+msgid "Enable reorder and filter posts with a nice shuffling animation"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1332
+msgid ""
+"Only works with \"View type\" as Grid, Pinterest and \"Pagination\" is "
+"disabled.<br>Options to filter posts are selected terms OR all terms of "
+"selected taxonomy"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1341
+msgid "Type"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1365
+msgid "Space"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1378
+msgid "Spacing between the filter options"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1403
+msgid "Option"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1413
+msgid "Bottom margin"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1421
+msgid "Spacing between the filter options and the result"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1430
+msgid "Position"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/content-views-admin.php:1438
+msgid "The position of filter options bar"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/includes/plugin.php:137
+msgid "User role who can manage Views"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/includes/plugin.php:145
+msgid "License key"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/includes/plugin.php:159
+msgid ""
+"Load <b>refined Bootstrap</b> style which removed <b>font-size, color</b> "
+"properties of Bootstrap for Heading, Link..."
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/includes/plugin.php:160
+msgid ""
+"Check this option if you see font size, color of elements in your website "
+"have been changed after activate Content Views plugin"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/includes/plugin.php:173
+msgid "Don't load <b>Colorbox</b> style & script (in frontend of website)"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/includes/plugin.php:174
+msgid ""
+"This library is required to open item in Lightbox. Only check this option if "
+"Colorbox has been loaded by active theme or other plugin"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/admin/includes/plugin.php:231
+msgid ""
+"To update PRO plugin, please enter the license key you got when you "
+"purchased item"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:96
+msgid "Random order"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:97
+msgid "Comment count"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:98
+msgid "View count"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:212
+msgid "More"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:290
+msgid "Posted by"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:645
+msgid "Please select an option in : "
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:646
+msgid "Please set value in : "
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:649
+msgid "Filter Settings"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:650
+msgid "Display Settings"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:659
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:662
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:668
+msgid "View type settings"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:680
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:683
+msgid "Fields settings"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:680
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:683
+msgid "Thumbnail settings"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:694
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:697
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:702
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:705
+msgid "Other settings"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:866
+msgid "Please check \"Taxonomy\" in \"Advanced filters\""
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:873
+msgid ""
+"Please select at least one taxonomy in \"Advanced filters\" > \"Taxonomy "
+"Settings\""
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/hooks.php:880
+msgid "There is no terms to filter"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/html.php:310
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/html.php:333
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/html.php:371
+msgid "All"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:44
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:91
+msgid "The number of items on each row"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:131
+msgid "Font settings"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:146
+msgid "of Title"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:156
+msgid "of Content"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:166
+msgid "of Meta fields"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:210
+msgid "Color"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:232
+msgid "Font family"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:253
+msgid "Font style"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:273
+msgid "Font size"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:307
+msgid "View style"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/settings.php:352
+msgid "Margin"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:27
+msgid "No style"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:28
+msgid "Rounded"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:29
+msgid "Thumbnail"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:30
+msgid "Circle"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:62
+msgid "No, let me choose (to filter by other settings)"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:63
+msgid "Recent products"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:64
+msgid "Best selling products"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:65
+msgid "Featured products"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:66
+msgid "Top rated products"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:81
+msgid "Timeline"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:95
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:202
+msgid "Left"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:96
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:203
+msgid "Center"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:97
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:204
+msgid "Right"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:115
+msgid "&mdash; Default font &mdash;"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:133
+msgid "&mdash; Default style &mdash;"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:149
+msgid "&mdash; Default size &mdash;"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:166
+msgid "Select character"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:174
+msgid "Left to Right"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/includes/values.php:175
+msgid "Right to Left"
+msgstr ""
+
+#: D:\wamp\www\wptest\3.9.1\wp-content\plugins\pt-content-views-pro/public/templates/timeline/html/main.php:42
+msgid "ago"
+msgstr ""

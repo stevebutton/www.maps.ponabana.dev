@@ -1,0 +1,240 @@
+/**
+ * Style Name: Timeline
+ *
+ * @package   PT_Content_Views_Pro
+ * @author    PT Guy (palaceofthemes@gmail.com)
+ * @license   GPL-2.0+
+ * @link      http://www.contentviewspro.com/
+ * @copyright 2014 PT Guy
+ */
+
+@charset "utf-8";
+
+/*------------------   Timeline Style   ------------------*/
+
+/* Links */
+.pt-cv-timeline a, .pt-cv-timeline a:visited {
+	color:           #3B5998;
+	text-decoration: none;
+}
+
+.pt-cv-timeline a:hover {
+	text-decoration: underline !important;
+}
+
+/* Title */
+.pt-cv-timeline .pt-cv-title {
+	margin:  0;
+	padding: 0;
+}
+
+.pt-cv-timeline .pt-cv-title a {
+	font-size:   14px;
+	font-weight: bold;
+}
+
+/* Content */
+.pt-cv-timeline .pt-cv-content-item {
+	background:            #fff;
+	padding:               5px;
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius:    3px;
+	border-radius:         3px;
+}
+
+.pt-cv-tl-content {
+	padding: 10px;
+}
+
+.pt-cv-tl-avatar {
+	/*border-bottom: 1px #ccc solid;*/
+	padding-bottom: 5px;
+	margin-bottom:  15px;
+	font-size:      11px;
+}
+
+.pt-cv-tl-avatar img {
+	border: 1px solid rgba(0, 0, 0, .1);
+}
+
+.pt-cv-tl-heading {
+	display:        inline-block;
+	vertical-align: top;
+	padding-left:   5px;
+}
+
+.pt-cv-tl-heading > p {
+	margin: 0;
+}
+
+/* Meta fields */
+.pt-cv-timeline .pt-cv-meta-fields {
+	background: #f6f7f8;
+	/*background: #EDEFF4;*/
+	list-style: none;
+	padding:    5px 10px;
+	margin:     0;
+}
+
+.pt-cv-timeline .pt-cv-meta-fields > span {
+	display: inline;
+}
+
+.pt-cv-timeline .pt-cv-meta-fields > span:before {
+	content:     "·" !important;
+	font-weight: bold;
+	padding:     0 6px;
+}
+
+.pt-cv-timeline .pt-cv-meta-fields > span:first-child:before {
+	content:     '' !important;
+	margin-left: -14px;
+}
+
+.pt-cv-timeline .pt-cv-meta-fields .glyphicon {
+	margin-left: 0;
+}
+
+/* Read more */
+.pt-cv-timeline .pt-cv-readmore {
+	color: #fff !important;
+}
+
+.pt-cv-timeline .btn-default.pt-cv-readmore {
+	color: #428bca !important;
+}
+
+.pt-cv-timeline .btn-default.pt-cv-readmore:hover {
+	background: #f6f7f8;
+}
+
+/*------------------   Timeline Layout   ------------------*/
+
+.pt-cv-timeline {
+	height:   auto;
+	overflow: hidden;
+	position: relative;
+	width:    100%;
+}
+
+.pt-cv-timeline .tl-spine {
+	background: none repeat scroll 0 0 #C3CCDF;
+	height:     100%;
+	left:       50%;
+	position:   absolute;
+	width:      1px;
+}
+
+.tl-items-clear {
+	clear: both;
+	width: 100%;
+}
+
+.tl-items {
+	margin:  0 auto;
+	padding: 0;
+}
+
+.tl-items div.tl-item {
+	display:        inline-block;
+	margin:         2px 0 40px !important;
+	padding:        0;
+	position:       relative;
+	vertical-align: top;
+	width:          50%;
+}
+
+/* Left/Right item */
+.tl-items div.pt-right {
+	clear: right;
+	float: right;
+}
+
+.tl-items div.pt-left {
+	clear: left;
+	float: left;
+}
+
+.pt-cv-timeline div.pt-left:after, .pt-cv-timeline div.pt-right:after {
+	background:            #C3CCDF;
+	border:                5px solid #fff;
+
+	content:               "";
+	width:                 15px;
+	height:                15px;
+	position:              absolute;
+
+	-webkit-border-radius: 50%;
+	-moz-border-radius:    50%;
+	border-radius:         50%;
+
+	transition:            all 1s ease 0s;
+}
+
+.pt-cv-timeline div.pt-left:hover:after, .pt-cv-timeline div.pt-right:hover:after {
+	background: #94B7FF;
+	border:     4px solid #F0F0F0;
+}
+
+.pt-cv-timeline div.pt-left:after {
+	right: -8px;
+	top:   20px;
+}
+
+.pt-cv-timeline div.pt-right:after {
+	left: -7px;
+	top:  62px;
+}
+
+/* Content inside item */
+.tl-items .tl-item-content {
+	background:            none repeat scroll 0 0 #FFFFFF;
+
+	margin:                auto;
+	min-height:            100px;
+	position:              relative;
+	width:                 90%;
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius:    3px;
+	border-radius:         3px;
+
+	-webkit-box-shadow:    0 1px 6px 2px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow:       0 1px 6px 2px rgba(0, 0, 0, 0.15);
+	box-shadow:            0 1px 6px 2px rgba(0, 0, 0, 0.15);
+}
+
+/* The arrow */
+.tl-item-content:before, .tl-item-content:after {
+	border-top:    8px dashed transparent;
+	border-bottom: 8px solid transparent;
+}
+
+.tl-item-content:before, .tl-item-content:after {
+	position: absolute;
+	top:      20px;
+	content:  '';
+}
+
+.pt-left .tl-item-content:before {
+	right:       -8px;
+	border-left: 8px solid #e5e5e5;
+}
+
+.pt-left .tl-item-content:after {
+	right:       -7px;
+	border-left: 8px solid #fff;
+}
+
+.pt-right .tl-item-content:before {
+	top:          60px;
+	left:         -8px;
+	border-right: 8px solid #e5e5e5;
+}
+
+.pt-right .tl-item-content:after {
+	top:          60px;
+	left:         -7px;
+	border-right: 8px solid #fff;
+}

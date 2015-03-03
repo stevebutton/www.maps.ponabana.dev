@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Posts Filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-04 13:54+0400\n"
+"PO-Revision-Date: 2013-10-30 13:49+0100\n"
+"Last-Translator: Hans Bakker <bakmanhans@gmail.com>\n"
+"Language-Team: Oleg Lepeshchenko <mail@olezhek.net>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: /home/slayer/dev/wp-i18n-tools/wp-posts-filter\n"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:105
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt onvoldoende rechten om de pagina te openen."
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:108
+msgid "WP Posts Filter settings"
+msgstr "WP Posts Filter instellingen"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:111
+msgid "Global settings"
+msgstr "Algemene instellingen"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:113
+msgid "Posts per page"
+msgstr "Berichten per pagina"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:116
+msgid ""
+"Works for all pages except for the home page. To customize posts limit for "
+"the home page please refer to \"Settings\" -> \"Reading\" section"
+msgstr ""
+"Van toepassing op alle pagina's behalve de homepage. Om het aantal berichten "
+"op de homepage te limiteren ga je naar \"Instellingen\" -> \"Reading\"."
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:120
+msgid "Date/time settings"
+msgstr "Datum/Tijd instellingen"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:133
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:546
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:571
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:591
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:613
+msgid "Custom value: "
+msgstr "Eigen waarde:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:135
+msgid "Needed to format the date displayed in post lists"
+msgstr "Wordt gebruikt om datum weer te geven bij berichtenlijsten"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:136
+msgid ""
+"Plugin-wide. Default value is taken from the Settings -> General -> Date "
+"format section. Syntax is the same as in WP and PHP date() function"
+msgstr ""
+"Voor gehele plugin geldig. De standaard notatie wordt bepaald in "
+"\"Instellingen\" -> \"General\" -> \"Datumnotatie\". De notatie is hetzelfde "
+"als in WP en PHP date() functie."
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:140
+msgid "Heading tag for the posts on a page:"
+msgstr "Heading tag voor berichten op een pagina:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:140
+msgid "Heading class for the posts on a page:"
+msgstr "Heading class voor berichten op een pagina:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:140
+msgid "Content tag for the posts on a page:"
+msgstr "Content tag voor berichten op een pagina:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:140
+msgid "Content class for the posts on a page:"
+msgstr "Content class voor berichten op een pagina:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:141
+msgid "Tags and styles settings"
+msgstr "Tags en styles instellingen"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:143
+msgid ""
+"You can set up custom styles and tags for every page you have. To perform "
+"this please refer to the page settings below"
+msgstr ""
+"Voor elke pagina kan je eigen styles en tags gebruiken. Zie hiervoor de "
+"onderstaande pagina-instellingen"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:144
+msgid "Post list global template"
+msgstr "Berichtenlijst globale template"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:151
+msgid "Works for all pages except for the home page"
+msgstr "Werkt voor alle pagina's behalve de homepage"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:159
+msgid "Pages: "
+msgstr "Pagina's:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:166
+msgid "Home page"
+msgstr "Homepage"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:166
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:168
+msgid "Link"
+msgstr ""
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:192
+msgid "Show pages from categories:"
+msgstr "Toon pagina's van de volgende categorie&euml;n:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:194
+msgid "Show pages containing tags:"
+msgstr "Toon pagina's met de volgende tags:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:203
+msgid "Check all"
+msgstr "Alle"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:286
+msgid "Categories"
+msgstr "Categorie&euml;n"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:288
+msgid "Tags"
+msgstr ""
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:290
+msgid "Both categories and tags"
+msgstr "Categorie&euml;n en tags"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:292
+msgid "None"
+msgstr "Geen"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:329
+msgid "WP Posts Filter Settings"
+msgstr "WP Posts Filter instellingen"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:329
+msgid "WP Posts Filter"
+msgstr ""
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:339
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:517
+msgid "&laquo; Previous Page"
+msgstr "&laquo; Vorige pagina"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:389
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:518
+msgid "Next Page &raquo;"
+msgstr "Volgende pagina &raquo;"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:486
+msgid ""
+"Oops! Can't find either one of the templates set or the default template for "
+"the page. Looks like your WP Posts Filter installation has been damaged! "
+"Please reinstall the plugin"
+msgstr ""
+"Oeps! Er kan geen template-set of standaard template worden gevonden. Het "
+"lijkt erop dat je WP Posts Filter installatie beschadigd is! Installeer de "
+"plugin opnieuw a.u.b."
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:529
+msgid "Filter by:"
+msgstr "Filter op:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:533
+msgid "Maximum posts per this page:"
+msgstr "Maximum aantal berichten op deze pagina:"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:555
+msgid "Post list template"
+msgstr "Berichten-lijst template"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:576
+msgid "Date/time settings for the page"
+msgstr "Datum/tijd instellingen voor deze pagina"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:596
+msgid "Heading tag for the posts on this page"
+msgstr "Heading tag voor berichten op deze pagina"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:596
+msgid "Heading class for the posts on this page"
+msgstr "Heading class voor berichten op deze pagina"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:596
+msgid "Content tag for the posts on this page"
+msgstr "Content tag voor berichten op deze pagina"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:596
+msgid "Content class for the posts on this page"
+msgstr "Content class  voor berichten op deze pagina"
+
+#: /home/slayer/dev/wp-i18n-tools/wp-posts-filter/wp-posts-filter.php:648
+msgid "Save Changes"
+msgstr "Opslaan"

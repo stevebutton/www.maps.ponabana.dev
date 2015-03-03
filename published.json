@@ -1,0 +1,267 @@
+{
+  "storymap": {
+    "map_as_image": false,
+    "calculate_zoom": false,
+    "slides": [
+      {
+        "date": "",
+        "text": {
+          "headline": "Introduction",
+          "text": "<p>Cette carte interactive a pour but de visualiser les bonnes pratiques mises en œuvre par les différents bureaux provinciaux de l’UNICEF au cours de l’exercice de revues semestrielles.</p><p>  Elle souligne aussi les erreurs à éviter ou les problèmes logistiques qui ont pu être rencontrées depuis juillet 2014, par chacun des bureaux, dans le but d’un partage de l’information et de capitalisation des connaissances et expériences de chacun, dans le but d’améliorer ces exercices d’évaluation de notre programme avec le gouvernement de la RDC et de mieux travailler avec nos partenaires de terrain.</p>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+        },
+        "type": "overview"
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Kinshasa (nationale)",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p><p></p>\n<a href=“/kinshasa-nationale rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": false,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 65.4217295985527,
+          "lon": -111.884765625,
+          "zoom": 22
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Kinshasa (provinciale)",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p><p></p>\n<a href=“/kinshasa-provinciale rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 67.16995497083367,
+          "lon": -112.1484375,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "bas congo",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p><p></p>\n<a href=“/bas-congo rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 62.5325943454858,
+          "lon": -130.3857421875,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Province Orientale",
+          "text": "<p>Le bureau principal de la Province orientale est situé à Kinsagani, mais cette province compte aussi deux antennes en Iturie (Bunia) et à Dungu, ce qui est une particularité qui influence, entre autre, l’organisation logistique des revues semestrielles. Le principal défi pour la province est de centraliser l’ensemble des données de chaque des bureaux (ou « cost centers »).</p><p></p>\n<a href=“/province-orientale rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 79.07181201408547,
+          "lon": -50.80078125,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Equateur",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p><p></p>\n<a href=“/equateur rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 77.32216817021381,
+          "lon": -84.990234375,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Sud Kivu",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=“/sud-kivu rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 68.73638345287264,
+          "lon": -33.0029296875,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Nord Kivu",
+          "text": "<p>La province du Nord-Kivu se caractérise par une multiplicité d'acteurs de terrain, Goma étant la base de nombreuses ONGs locales et internationales, ainsi que par une instabilité chronique due aux conflits qui affectent plusieurs provinces de l'Est, dont le Kivu.</p><p>Le principal défi pour la province du Nord-Kivu est donc d'obtenir la participation de tous les acteurs impliqués (plus de 80 personnes participants aux revues semestrielles) sans trop alourdir les débats et tout en favorisant des discussions productives et que chacun puisse faire entendre sa voix.</p><p>Veuillez cliquer sur les icônes ci-dessous pour visualiser les bonnes pratiques mises en œuvre au Nord Kivu et les erreurs à éviter.</p>\n<a href=“/nord-kivu rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 73.88591809512965,
+          "lon": -29.70703125,
+          "zoom": 5
+        }
+      },
+      {
+        "id": "String",
+        "date": "",
+        "text": {
+          "headline": "Kasaï Oriental",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=“/kasai-orientale rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 69.11561106499448,
+          "lon": -61.69921875,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Kasaï Occidental",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=“/kasaioccidental/ rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 63.80189351770543,
+          "lon": -76.86035156249999,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "katanga",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=“/katanga rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 60.413852350464936,
+          "lon": -37.22167968749999,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Bandundu",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=“/bandundu rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 66.87834504307973,
+          "lon": -99.31640625,
+          "zoom": 5
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Maniema",
+          "text": "<p>Introductory text for this region - a short description for the person who is just browsing the map.</p> <p>An explanation of how to use the icons below to see more information.The icons can be color coded to match the different sections.</p>\n<a href=“/maniema rel=\"ajaxpanel\" data-loadtype=\"iframe\"><img src=\"gfx/goodbad.png\"/></a>\n"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+          "lat": 68.73638345287264,
+          "lon": -47.4169921875,
+          "zoom": 5
+        }
+      }
+    ],
+    "map_type": "zoomify",
+    "zoomify": {
+      "path": "http://maps.ponabana.com/map-DRC/",
+      "width": 5000,
+      "height": 4000,
+      "tolerance": 0.9,
+      "attribution": ""
+    },
+    "call_to_action": true,
+    "call_to_action_text": "Start Exploring",
+    "language": "fr"
+  },
+  "height": "600",
+  "width": "940"
+}

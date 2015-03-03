@@ -1,0 +1,253 @@
+/**
+ * Common styles for Admin
+ *
+ * @package   PT_Content_Views_Pro
+ * @author    PT Guy <palaceofthemes@gmail.com>
+ * @license   GPL-2.0+
+ * @link      http://www.contentviewspro.com/
+ * @copyright 2014 PT Guy
+ */
+
+/* Fix Bootstrap box-sizing "border-box" problem */
+.iris-picker, .iris-picker * {
+	-moz-box-sizing:    content-box !important;
+	-webkit-box-sizing: content-box !important;
+	box-sizing:         content-box !important;
+}
+
+/* Form elements */
+.control-label.toggle:after {
+	content:    'click to show';
+	color:      #428bca;
+	float:      right;
+	font-size:  12px;
+	font-style: italic;
+}
+
+.pt-cv-full-fields .checkbox {
+	width: 100%;
+}
+
+.form-inline .form-group {
+	min-width: 48%;
+}
+
+.ui-sortable .form-group.pt-form-group {
+	margin-bottom: 5px;
+}
+
+.ui-sortable .form-group.pt-form-group label {
+	cursor: move;
+}
+
+/* Form settings */
+#pt-cv-group-field-settings > .form-group > .control-label {
+	font-weight: bold;
+}
+
+/* Color picker */
+
+.pt-cv-color {
+	float:   left;
+	height:  25px;
+	padding: 2px;
+	width:   76px !important;
+}
+
+.wp-picker-clear {
+	margin-left: 4px;
+}
+
+.wp-picker-holder {
+	margin-top: 30px;
+}
+
+.pt-cv-colorpicker {
+	z-index: 10000 !important;
+}
+
+.wp-picker-container {
+	background:    #fff;
+	position:      relative;
+	padding-right: 30px;
+	margin-left:   -15px;
+	z-index:       100;
+}
+
+.wp-color-result {
+	height: 24px;
+	float:  left;
+	margin: 0 4px 0 0;
+}
+
+.wp-picker-input-wrap {
+	float: left;
+}
+
+.wp-picker-input-wrap input.button {
+	height:      24px !important;
+	margin-left: 4px;
+}
+
+/* Pagination */
+#pt-cv-preview-box .pt-cv-more {
+	margin-bottom: 20px;
+}
+
+/* Group of color, font family, font style, font size */
+#pt-cv-group-google-fonts > .pt-form-group {
+	margin-bottom: 30px;
+}
+
+#pt-cv-group-google-fonts .pt-params .form-group {
+	float:  left;
+	width:  22%;
+	margin: 0;
+}
+
+/* Background color */
+#pt-cv-group-google-fonts .pt-params .form-group:nth-child(n + 5) {
+	width: 100% !important;
+}
+
+#pt-cv-group-google-fonts .pt-params .form-group:nth-child(n + 5) .control-label {
+	padding-left: 0;
+}
+
+#pt-cv-group-google-fonts .pt-params .form-group:nth-child(n + 5) .pt-params {
+	width: auto !important;
+}
+
+/* Google fonts */
+#pt-cv-group-google-fonts .pt-params .form-group:nth-child(2) {
+	width: 30%;
+}
+
+#pt-cv-group-google-fonts .pt-params .form-group:nth-child(4) .input-group {
+	width: 150px;
+}
+
+#pt-cv-group-google-fonts .pt-params .form-group:nth-child(2) .pt-params:nth-child(1) {
+	padding: 0;
+}
+
+.pt-cv-font-family .select2-results li {
+	background-image:   url("google-fonts.png");
+	background-repeat:  no-repeat;
+	display:            block;
+	height:             30px;
+	padding:            10px 0;
+	text-indent:        -1000px;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing:    border-box;
+	box-sizing:         border-box;
+}
+
+/* Read more */
+.pt-cv-group-btn-styles {
+	margin-top: 10px;
+}
+
+.pt-cv-group-btn-styles .btn {
+	margin-top: -8px;
+}
+
+.pt-cv-group-btn-styles .radio {
+	float:         left;
+	margin-bottom: 10px;
+	width:         30%;
+}
+
+/* Description */
+.text-muted .glyphicon {
+	color: #f00;
+}
+
+/* Popover */
+.popover, .popover-content {
+	max-width: 100%;
+}
+
+.popover img {
+	max-width: 600px;
+}
+
+/* Filter */
+.pt-params .breadcrumb {
+	margin-bottom: 0 !important;
+}
+
+.pt-cv-filter-bar-sample {
+	margin-top:    -7px !important;
+	margin-bottom: 10px !important;
+}
+
+.btn-group.pt-cv-filter-bar-sample .btn {
+	-webkit-border-radius: 0;
+	-moz-border-radius:    0;
+	border-radius:         0;
+}
+
+.breadcrumb.pt-cv-filter-bar-sample {
+	margin-top:            -4px;
+	margin-bottom:         0;
+	margin-left:           0;
+	background:            none;
+	padding-left:          0;
+
+	-webkit-border-radius: 0;
+	-moz-border-radius:    0;
+	border-radius:         0;
+}
+
+/* Date Filter */
+#pt-cv-group-date .radio {
+	width: 50%;
+	float: left;
+}
+
+/* Sortable select2 */
+.select2-container .ui-state-highlight {
+	background: #FF6A5A;
+	width: 50px;
+	height: 32px;
+	margin: 0px 2px 0 5px;
+}
+
+/* Custom Field Filter */
+#pt-cv-group-custom_field .select2-container {
+	min-width: 200px !important;
+}
+.pt-cv-ctf-filter-value {
+	width: 100% !important;
+}
+.pt-cv-ctf-filter-delete {
+	font-weight: bold;
+	font-size: 20px !important;
+	float: left;
+	cursor: pointer;
+	color: #f00;
+	margin: 2px 0px 0px 4px;
+}
+#pt-cv-ctf-list th {
+	text-align: center;
+}
+#pt-cv-ctf-list .form-control {
+	width: 100%;
+}
+#pt-cv-ctf-list tr td:first-child {
+	padding-left: 0;
+}
+
+/* Parent page */
+#pt-cv-group-parent-page .pt-form-group:first-child {
+	margin-top: -10px;
+}
+#pt-cv-group-parent-page .pt-form-group:last-child {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#pt-cv-group-parent-page .checkbox {
+	width: auto;
+}

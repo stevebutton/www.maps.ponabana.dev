@@ -1,0 +1,189 @@
+/*
+Theme Name: Flat
+Theme URI: http://www.yoarts.com/wordpress/free-flat-design-wordpress-theme.html
+Author: YoArts
+Author URI: http://www.yoarts.com/
+Description: Flat is a WordPress Blog Theme designed by YoArts. We would like to say that Flat is both beautiful and charming at the same time.
+Version: 1.3.7
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: flat
+Tags: black, orange, white, white, dark, lightwhyus, two-columns, responsive-layout, left-sidebar, custom-background, custom-colors, custom-menu, editor-style, post-formats, custom-colors, translation-ready
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.container {
+	max-width: 1000px;
+	width:     100%;
+	padding:   0 0;
+}
+#site-navigation { margin-left:0; }
+#site-navigation .menu-item-12 a { padding-right:0 }
+#content {
+	margin-bottom: 50px;
+}
+p {
+	max-width: 100%;
+}
+.btn {
+-webkit-border-radius: 0 !important; -moz-border-radius: 0 !important; border-radius: 0 !important;
+}
+
+/* Search icon */
+.toggle-search {
+	padding: 36px 0;
+	cursor:  pointer;
+	color:   #fff;
+}
+
+/* Heading */
+h1, h2, h3, h4 {
+	font-weight: 600;
+}
+h1 {
+	font-weight: 300;
+	font-size: 50px;
+}
+h2 {
+	font-size: 24px;	
+}
+.single h2 {
+	text-decoration: underline;
+}
+h3 {
+	font-size: 20px;
+}
+h4 {
+	font-size: 16px;
+}
+.pt-cv-title {
+	font-size: 18px;
+}
+.thumbnail {
+	margin-top: 10px;
+}
+
+/* Other */
+.entry-meta {
+	margin-bottom: 20px;
+}
+
+/* Mailchimp form */
+#pt-mailchimp-form {
+	border-bottom: 1px solid #eee;
+	padding: 30px 0 7px;
+	background: rgba(211, 223, 235, 0.25);
+}
+#pt-mailchimp-form .container {
+	padding: 0;
+}
+#pt-mailchimp-form h2 {
+	margin-top: 4px;
+	text-decoration: none;
+}
+#pt-mailchimp-form label {
+	font-weight: 400;
+	font-size:   20px;
+}
+#pt-mailchimp-form input[type=submit] {
+	position: absolute;
+	top:      0;
+	right:    15px;
+}
+.no-spam {
+	font-style: italic;
+	font-size: 14px;
+	font-weight: 300;
+	margin-top: 6px;
+}
+
+/* Social icons footer */
+.site-info {
+	position: relative;
+	overflow: hidden;
+}
+#footer-social-icons {
+	position: absolute;
+	top:      25px;
+	right:    0;
+}
+#footer-social-icons li {
+	display:    inline;
+	list-style: none;
+	padding:    0 2px;
+}
+#footer-social-icons img {
+	width: 30px;
+}
+
+/* BBpress forum */
+.bbpress .entry-content * {
+	font-size: 14px;
+}
+#bbp-search-form {
+	margin-bottom: 10px;
+}
+#bbp_search {
+	min-height: 30px;
+	padding: 6px 10px;
+	height: auto;
+	min-width: 220px;
+}
+.subscription-toggle {
+	float:       right;
+	font-weight: bold;
+}
+.bbpress .entry-content * {
+	font-weight: normal;
+}
+
+/* Forum topic page */
+.wp-switch-editor {
+	padding-bottom: 20px !important;
+}
+#bbp_topic_content {
+	border: 1px solid rgb(236, 236, 236);
+}
+
+/* Footer */
+#copyright, #menu-footer-menu {
+	float: left;
+	margin-top: 3px;
+}
+#copyright {
+	margin-top: 5px;
+	font-weight: bold;
+}
+#menu-footer-menu li {
+	list-style: none;
+	float: left;
+	margin-right: 20px;
+}
+#menu-footer-menu li a {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* Responsive */
+@media (max-width: 767px) {
+	/* Iframe responsive */
+	.entry-content iframe {
+		width: 100%;
+	}
+	
+	.page.home .alert img {
+		float: none;
+		text-align: center;
+	}
+	
+	h2 {
+		font-size: 20px;
+	}
+	
+	#footer-social-icons {
+		top: 52px;
+	}
+	.page.home .col-md-6 {
+		margin-top: 20px;
+	}
+}
